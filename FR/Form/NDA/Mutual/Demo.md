@@ -2,7 +2,7 @@ Accord.Sign.Date=1er mars 2017
 
 Accord.Sign.Lieu=Paris
 
-EffectiveDate.YMD=2017-03-1
+EffectiveDate.YMD=2017-03-01
 
 P1.=[U/id/acme_incorporated.md]
 
